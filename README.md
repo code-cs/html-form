@@ -1,2 +1,2 @@
 # html-form
-a simple html form
+A simple register form
